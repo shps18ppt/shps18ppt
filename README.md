@@ -15,3 +15,7 @@
 <img src="https://raw.githubusercontent.com/h3lstudios/h3lstudios/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shps18ppt&show_icons=true&theme=cobalt)
+
+###
