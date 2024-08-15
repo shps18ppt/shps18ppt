@@ -1,1 +1,17 @@
-amogus
+<div align="center">
+  <img height="350" src="https://raw.githubusercontent.com/shps18ppt/shps18ppt/main/shps18ppt.png"  />
+</div>
+
+###
+
+<p align="left">I'm a web developer which is in the process of making an IDE. I also like to play Puyo Puyo and Tetris.</p>
+
+###
+
+<h3 align="left">🇯🇵</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/h3lstudios/h3lstudios/output/snake.svg" alt="Snake animation" />
+
+###
