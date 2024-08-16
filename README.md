@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://raw.githubusercontent.com/shps18ppt/shps18ppt/main/shps18ppt.png"  />
+  <img height="20%" src="https://raw.githubusercontent.com/shps18ppt/shps18ppt/main/shps18ppt.png"  />
 </div>
 
 ###
