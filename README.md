@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">I'm a web developer which is in the process of making an IDE. I also like to play Puyo Puyo and Tetris.</p>
+<p align="left">i like to code</p>
 
 ###
 
-<h3 align="left">🇯🇵</h3>
+<h3 align="left"></h3>
 
 ###
 
